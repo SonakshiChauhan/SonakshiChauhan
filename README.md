@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SonakshiChauhan
 - 👀 I’m interested in Coding,learning and  I am a bibliophile
-- 🌱 I’m currently learning Full Stack Web Development and DSA
+- 🌱 I’m currently learning Full Stack Web Development,DSA and DevOps
 - 💞️ I’m looking to collaborate on Web Dev projects
 
 

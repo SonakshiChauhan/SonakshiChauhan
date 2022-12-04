@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonakshi Chauhan</h1>
 <h3 align="center">A passionate and caffeinated coder who is learning new technologies and practicing everyday.</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonakshichauhan&label=Profile%20views&color=0e75b6&style=flat" alt="sonakshichauhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonakshichauhan" alt="sonakshichauhan" /></a> </p>
